@@ -1,6 +1,6 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nils and I'm a software engineer. I'm from France, living in Sucy-en-Brie;
+My name is Nils and I'm a French software engineer based in Paris.
 
 ## GitHub Stats
 
